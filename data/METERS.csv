@@ -1,0 +1,52 @@
+METER_ID,METER_NAME,METER_DESC,METER_TYPE_ID,LAST_PROC_DT,IS_ACTIVE
+1,Undefined,Desc - Undefined Meter,1,NULL,1
+2,Brandt Meter,Brandt Meter,2,00:00.0,1
+4,Main Hall Meter,Main Hall Meter,2,00:00.0,1
+5,Center for Faith & Life Meter,Center for Faith & Life Meter,2,00:00.0,1
+6,Farwell Meter,Farwell Meter,2,00:00.0,1
+7,Koren Meter,Koren Meter,2,00:00.0,1
+8,Loyalty Meter,Loyalty Meter,2,00:00.0,1
+9,Centennial Union Meter Summary,Centennial Union Meter Summary,2,00:00.0,1
+10,Centennial Union 480V Service,Centennial Union 480V Service,2,00:00.0,1
+11,Centennial Union East Meter,Centennial Union East Meter,2,00:00.0,1
+12,Centennial Union West Meter,Centennial Union West Meter,2,00:00.0,1
+13,Jenson Meter Summary,Jenson Meter Summary,2,00:00.0,1
+14,Jenson Addition Meter,Jenson Addition Meter,2,00:00.0,1
+15,Jenson Original Meter,Jenson Original Meter,2,00:00.0,1
+16,Dieseth Meter,Dieseth Meter,2,00:00.0,1
+17,Miller/Dieseth Meter Summary,Miller/Dieseth Meter Summary,2,00:00.0,1
+18,Miller Meter,Miller Meter,2,00:00.0,1
+19,Miller Chiller Meter,Miller Chiller Meter,2,00:00.0,1
+20,Olin Meter,Olin Meter,2,00:00.0,1
+21,Olson Meter,Olson Meter,2,00:00.0,1
+22,Preus Meter,Preus Meter,2,00:00.0,1
+23,Ylvisaker Meter,Ylvisaker Meter,2,00:00.0,1
+24,Regents Center Meter Summary,Regents Center Meter Summary,2,00:00.0,1
+25,Regents 1962 Section Meter,Regents 1962 Section Meter,2,00:00.0,1
+26,Regents Sports Forum Meter,Regents Sports Forum Meter,2,00:00.0,1
+27,Regents Fitness Center Meter,Regents Fitness Center Meter,2,00:00.0,1
+28,Larsen Meter,Larsen Meter,2,00:00.0,1
+29,Koren Water Meter,Koren Water Meter,6,00:00.0,1
+30,Electric Meter,Electric Meter,2,00:00.0,1
+31,South 480V Meter,South 480V Meter,2,00:00.0,1
+32,North 208V Meter,North 208V Meter,2,00:00.0,1
+33,Centennial Union Condensate Meter,Centennial Union Condensate Meter,5,00:00.0,1
+34,Regents Condensate Meter,Regents Condensate Meter,5,00:00.0,1
+35,Brandt Condensate Meter,Brandt Condensate Meter,5,00:00.0,1
+36,CFL Condensate Meter,CFL Condensate Meter,5,00:00.0,1
+37,Jenson Condensate Meter,Jenson Condensate Meter,5,00:00.0,1
+38,Farwell Condensate Meter,Farwell Condensate Meter,5,00:00.0,1
+39,Preus Condensate Meter,Preus Condensate Meter,5,00:00.0,1
+40,Ylvi Condensate Meter,Ylvi Condensate Meter,5,00:00.0,1
+41,Loyalty Condensate Meter,Loyalty Condensate Meter,5,00:00.0,1
+42,Olin Condensate Meter,Olin Condensate Meter,5,00:00.0,1
+43,Koren Condensate Meter,Koren Condensate Meter,5,00:00.0,1
+44,Valders Condensate Meter,Valders Condensate Meter,5,00:00.0,1
+45,Dieseth Condensate Meter,Dieseth Condensate Meter,5,00:00.0,1
+46,Miller Condensate Meter,Miller Condensate Meter,5,00:00.0,1
+47,Baker Trondheim Electric Meter,Baker Trondheim Electric Meter,2,00:00.0,1
+48,Baker Oslo Electric Meter,Baker Oslo Electric Meter,2,00:00.0,1
+49,Baker Lillehammer Electric Meter,Baker Lillehammer Electric Meter,2,00:00.0,1
+50,Baker Bergen Electric Meter,Baker Bergen Electric Meter,2,00:00.0,1
+51,Baker Commons Electric Meter,Baker Commons Electric Meter,2,00:00.0,1
+53,Campus Meter,Campus Meter,2,00:00.0,1

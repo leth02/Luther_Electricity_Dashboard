@@ -1,0 +1,24 @@
+METER_ID,METER_NAME,METER_DESC,METER_TYPE_ID,LAST_PROC_DT,IS_ACTIVE
+2,Brandt Meter,Brandt Meter,2,00:00.0,1
+3,Valders Summary, Valders Summary,2,00:00.0,1
+4,Main Hall Meter,Main Hall Meter,2,00:00.0,1
+5,Center for Faith & Life Meter,Center for Faith & Life Meter,2,00:00.0,1
+6,Farwell Meter,Farwell Meter,2,00:00.0,1
+7,Koren Meter,Koren Meter,2,00:00.0,1
+8,Loyalty Meter,Loyalty Meter,2,00:00.0,1
+9,Centennial Union Meter Summary,Centennial Union Meter Summary,2,00:00.0,1
+13,Jenson Meter Summary,Jenson Meter Summary,2,00:00.0,1
+17,Miller/Dieseth Meter Summary,Miller/Dieseth Meter Summary,2,00:00.0,1
+20,Olin Meter,Olin Meter,2,00:00.0,1
+21,Olson Meter,Olson Meter,2,00:00.0,1
+22,Preus Meter,Preus Meter,2,00:00.0,1
+23,Ylvisaker Meter,Ylvisaker Meter,2,00:00.0,1
+24,Regents Center Meter Summary,Regents Center Meter Summary,2,00:00.0,1
+28,Larsen Meter,Larsen Meter,2,00:00.0,1
+30,Electric Meter,Electric Meter,2,00:00.0,1
+47,Baker Trondheim Electric Meter,Baker Trondheim Electric Meter,2,00:00.0,1
+48,Baker Oslo Electric Meter,Baker Oslo Electric Meter,2,00:00.0,1
+49,Baker Lillehammer Electric Meter,Baker Lillehammer Electric Meter,2,00:00.0,1
+50,Baker Bergen Electric Meter,Baker Bergen Electric Meter,2,00:00.0,1
+51,Baker Commons Electric Meter,Baker Commons Electric Meter,2,00:00.0,1
+53,Campus Meter,Campus Meter,2,00:00.0,1

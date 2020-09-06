@@ -1,0 +1,21 @@
+BUILDING_ID,BUILDING_TYPE_ID,BUILDING_NAME,SCHEDULE_ID,IS_ACTIVE
+1,1,undefined,NULL,1
+2,10,Brandt Hall,2,1
+4,1,Main,1,1
+5,9,Center for Faith & Life,1,1
+6,10,Farwell Hall,2,1
+7,9,Koren Center,1,1
+8,9,Loyalty Hall,1,1
+9,1,Centennial Union,1,1
+10,9,Jenson Hall of Music,1,1
+11,10,Miller/Dieseth Hall,2,1
+12,9,Olin,1,1
+13,10,Olson,2,1
+14,11,Preus Library,1,1
+15,10,Ylvisaker,2,1
+16,1,Regents Center,1,1
+17,10,Larsen Hall,2,1
+18,7,SHL,2,1
+19,9,Valders Hall of Science,1,1
+20,10,Baker Village,1,1
+21,1,Campus Meter Summary,2,1
